@@ -1,0 +1,28 @@
+body{
+    background-color: #f0e8df;
+    background-image: url("bg.png") ;
+    background-repeat: repeat;
+    
+}
+
+header img{
+    width: 30px;
+    height: 30px;
+}
+
+.navbar{
+    background-color: #f0e8df;
+    
+}
+
+@media (max-width:780px){
+    header img{
+        width: 10px;
+        height: 10px;
+    }
+
+    img{
+        width: 50%;
+        height: 50%;
+    }
+}

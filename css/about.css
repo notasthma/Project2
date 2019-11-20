@@ -1,0 +1,16 @@
+body {
+    height: 100%;
+    font-family: "Inconsolata", sans-serif;
+    padding-top: 5%;
+    
+  }
+  
+  main h1{
+    padding-left: 35%;
+  }
+
+  main small{
+      padding-left: 45%;
+  }
+
+ 

@@ -1,0 +1,10 @@
+body{
+    padding-top: 80px;
+}
+
+.gallery-wrap .img-big-wrap img {
+    height: 100%;
+    width: 100%;
+    padding: 10%;
+    
+}
